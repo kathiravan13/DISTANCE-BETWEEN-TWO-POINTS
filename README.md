@@ -30,7 +30,8 @@ print("{:.2f}".format(distance))
 ```
 
 ### OUTPUT:
-![output](/distance.png)
+![Screenshot from 2023-04-15 11-28-14](https://user-images.githubusercontent.com/119831303/232187367-ea4c1c36-3676-4baf-9ac4-29493db85d0a.png)
+
 
 ### RESULT:
 Thus the distance between the two points are successfully executed
